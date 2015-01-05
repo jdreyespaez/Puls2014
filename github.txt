@@ -1,0 +1,2 @@
+Primer commit del proyecto
+Para emular a Freddy, éste documento reemplazará lo que él escribió como explicación de la manera en que funciona GITHUB y sus ventajas.
